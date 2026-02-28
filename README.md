@@ -16,7 +16,7 @@ class VuchaJahnavi:
 | Project | Description |
 |----------|-------------|
 | 🛡️ **[CyberSentinel](https://github.com/Jahnavi-Hub02/CyberSentinel)** | Full-stack threat intelligence platform — real-time incident monitoring, MongoDB, Docker |
-| 🔍 **[STIX Threat Intel Platform](https://github.com/Jahnavi-Hub02/stix-threat-intel-platform)** | ISRO project — STIX 2.1 IOC ingestion, event correlation, REST API, live dashboard |
+| 🔍 **[STIX Threat Intel Platform](https://github.com/Jahnavi-Hub02/stix-threat-intel-platform)** | STIX 2.1 IOC ingestion, event correlation, REST API, live dashboard |
 
 ---
 
